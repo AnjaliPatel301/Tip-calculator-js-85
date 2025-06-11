@@ -17,7 +17,9 @@ A simple and responsive Tip Calculator built using **HTML**, **CSS**, and **Java
 
 ## 📸 Screenshots
 
-> (Add screenshot here if you have one)
+
+>![Screenshot_11-6-2025_65339_127 0 0 1](https://github.com/user-attachments/assets/a1f7ed6e-bfe7-4997-835f-216ca6baffb4)
+
 
 ## 🚀 How to Use
 
@@ -50,10 +52,11 @@ While building this project, I learned:
 
 
 
-## ✨author;
+## ✨author😂
 
 
-😂![MeGetJammedOnGIF](https://github.com/user-attachments/assets/ee00f63c-5444-4429-a8f3-bba4ec51ee18)
+
+![MeGetJammedOnGIF](https://github.com/user-attachments/assets/ee00f63c-5444-4429-a8f3-bba4ec51ee18)
 
 
 
