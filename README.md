@@ -1,4 +1,4 @@
- 💰 Tip Calculator
+ 💰 Tip Calculator❤️‍🩹
 
 A simple and responsive Tip Calculator built using **HTML**, **CSS**, and **JavaScript**.
 
@@ -26,17 +26,19 @@ A simple and responsive Tip Calculator built using **HTML**, **CSS**, and **Java
 3. Click on the **Calculate** button.
 4. (Optional) You can also divide the amount between people if you added that feature.
 
+
 ## 📁 Project Structure
 
 tip-calculator/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
-yaml
-Copy
-Edit
 
 ## 💡 Learnings
 
@@ -46,7 +48,12 @@ While building this project, I learned:
 - Responsive design with CSS
 - Improving user experience with clean UI
 
-## ✨ Live Demo
 
-[Click here to see live project](#) <!-- Add your GitHub Pages or Netlify/Vercel link here -->
+
+## ✨author;
+
+
+😂![MeGetJammedOnGIF](https://github.com/user-attachments/assets/ee00f63c-5444-4429-a8f3-bba4ec51ee18)
+
+
 
